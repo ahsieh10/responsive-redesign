@@ -1,12 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Lusitana&display=swap');
 
 body {
-  background-color:#857E61;
+  background-color:#392f05;
   font-family:'Lusitana', sans-serif;
   margin: 0px;
 }
 
-.website_title{
+/* .website_title{
+  background-color:#6dc595;
+  color:white;
+  width: 100%;
+  padding-top:25px;
+  padding-bottom:25px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right:0px;
+  text-align: center;
+  font-size: 60px;
+} */
+
+h1{
   background-color:#6dc595;
   color:white;
   width: 100%;
@@ -63,7 +76,7 @@ h4{
 }
 
 .sidebar_item{
-  background-color:#b7a196;
+  background-color:#7a6052;
   margin: 20px;
   width: 90%;
   align-items: center;
@@ -119,7 +132,7 @@ href:active{
 }
 
 .credits p{
-  color: black;
+  color: #cddfb5;
   font-size: 100%;
   text-align: center;
 }
@@ -159,7 +172,7 @@ button{
 .inner_contents button {
   height: 3em;
   font-size: 100%;
-  color: #DA8AB2
+  color: black;
 }
 
 .inner_contents button:hover{
@@ -213,7 +226,7 @@ button{
   }
 
   .credits p{
-    color: black;
+    color: #cddfb5;
     font-size: 80%;
     width: 80%;
   }
@@ -247,7 +260,7 @@ button{
     font-size: 20px;
   }
 
-  .website_title{
+  h1{
     background-color:#6dc595;
     color:white;
     width: 100%;
@@ -297,7 +310,7 @@ button{
   }
 
   .credits p{
-    color: black;
+    color: #cddfb5;
     font-size: 80%;
     width: 80%;
   }
@@ -317,7 +330,7 @@ button{
     font-size: 15px;
   }
 
-  .website_title{
+  h1{
     background-color:#6dc595;
     color:white;
     width: 100%;
